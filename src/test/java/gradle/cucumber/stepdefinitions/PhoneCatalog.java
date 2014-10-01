@@ -1,9 +1,9 @@
-package gradle.cucumber;
+package gradle.cucumber.stepdefinitions;
 
 import cucumber.api.java.en.When;
 import phonecatalog.Phone;
 
-public class BasicStepdefs {
+public class PhoneCatalog {
 
 
     @When("^I run a step$")
